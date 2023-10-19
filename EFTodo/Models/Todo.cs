@@ -1,11 +1,11 @@
 public class Todo
 {
 
-    public int Id;
+    public int Id { get; set; }
 
-    public string Task;
+    public string Task { get; set; }
 
-    public bool Completed;
+    public bool Completed { get; set; }
 
 
     public Todo(int id, string task, bool completed)

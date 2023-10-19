@@ -1,0 +1,5 @@
+C:\Users\Chloé MONVOISIN\OneDrive\Documents\GitHub\EFTodo\EFTodo\obj\Debug\net7.0\EFTodo.csproj.AssemblyReference.cache
+C:\Users\Chloé MONVOISIN\OneDrive\Documents\GitHub\EFTodo\EFTodo\obj\Debug\net7.0\EFTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chloé MONVOISIN\OneDrive\Documents\GitHub\EFTodo\EFTodo\obj\Debug\net7.0\EFTodo.AssemblyInfoInputs.cache
+C:\Users\Chloé MONVOISIN\OneDrive\Documents\GitHub\EFTodo\EFTodo\obj\Debug\net7.0\EFTodo.AssemblyInfo.cs
+C:\Users\Chloé MONVOISIN\OneDrive\Documents\GitHub\EFTodo\EFTodo\obj\Debug\net7.0\EFTodo.csproj.CoreCompileInputs.cache
